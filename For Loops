@@ -1,0 +1,4 @@
+print("Prime numbers between O and 200 are: ")
+for i in range(201):
+  if(i % 2 != 0):
+    print(i)
